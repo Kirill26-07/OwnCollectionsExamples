@@ -1,8 +1,11 @@
+/**
+ * Benchmark для тестирования производительности коллекций
+ */
+
 package com.kirill.benchmark;
 
 import com.kirill.collectionTypes.ArrayCollection;
 import org.openjdk.jmh.annotations.Benchmark;
-
 import java.util.Collection;
 
 public class CollectionBenchmarkTest {
