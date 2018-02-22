@@ -1,3 +1,7 @@
+/**
+ * Класс представляет собой вапиант раелизации собственной коллекции которая implements Collection<T>
+ */
+
 package com.kirill.collectionTypes;
 
 import java.util.Arrays;
@@ -6,9 +10,14 @@ import java.util.Iterator;
 
 public class ArrayCollection<T> implements Collection<T>{
 
-
     private T[] array = (T[]) new Object[2];
     private int size;
+
+    public ArrayCollection(){}
+
+    public ArrayCollection(final T[] array){
+        this.array = array;
+    }
 
     @Override
     public int size() {

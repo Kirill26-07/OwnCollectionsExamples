@@ -33,5 +33,20 @@
           <artifactId>junit-jupiter-api</artifactId>
           <version>5.0.0</version>
       </dependency>
+    <dependency>
+      <groupId>org.openjdk.jmh</groupId>
+      <artifactId>jmh-core</artifactId>
+      <version>1.20</version>
+    </dependency>
+    <dependency>
+      <groupId>org.openjdk.jmh</groupId>
+      <artifactId>jmh-generator-annprocess</artifactId>
+      <version>1.20</version>
+    </dependency>
+    <dependency>
+      <groupId>org.openjdk.jmh</groupId>
+      <artifactId>jmh-core-benchmarks</artifactId>
+      <version>1.20</version>
+    </dependency>
   </dependencies>
 </project>
