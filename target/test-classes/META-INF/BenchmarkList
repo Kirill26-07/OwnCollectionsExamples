@@ -1,3 +1,0 @@
-JMH S 44 com.kirill.benchmark.CollectionBenchmarkTest S 76 com.kirill.benchmark.generated.CollectionBenchmarkTest_testAddMethod_jmhTest S 13 testAddMethod S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 44 com.kirill.benchmark.CollectionBenchmarkTest S 88 com.kirill.benchmark.generated.CollectionBenchmarkTest_testRemoveMethodFromStart_jmhTest S 25 testRemoveMethodFromStart S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 44 com.kirill.benchmark.CollectionBenchmarkTest S 86 com.kirill.benchmark.generated.CollectionBenchmarkTest_testRemoveMethodFromEnd_jmhTest S 23 testRemoveMethodFromEnd S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
