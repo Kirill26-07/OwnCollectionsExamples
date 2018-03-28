@@ -1,6 +1,6 @@
 # Compiled class file
-*.class
+.class
 
 #Other
-*.idea
-*target
+.idea
+target
