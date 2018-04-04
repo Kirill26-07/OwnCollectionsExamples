@@ -2,5 +2,6 @@
 .class
 
 #Other
-.idea
-target
+.idea/
+target/
+out/
